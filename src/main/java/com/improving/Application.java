@@ -5,6 +5,7 @@ public class Application {
     //this is Emily
     // I'm on Siri's team but I don't pull often enough
     // so I'm going to run into some pain...
+
     //Welp, looks like we're stuck.
     // This is Ethan's humble contribution to hell.
     // This is another comment from Ethan. Hey guys.
@@ -27,14 +28,35 @@ public class Application {
     // I'm on Siri's team but I don't pull often enough
     // so I'm going to run into some pain...
     //have ya'll tried these KIND protein bars?
+
+
+
+
+
+
+
+
+
+
+
+
     //jennifer was here
     //jennifer was here
     //jennifer was here
     //jennifer was here
     //jennifer was here
+
+
+
+
+
+
     //have ya'll tried these KIND protein bars?
+
     //Rachel's mergeity merge
+
     //Merge-in Mergin - mergin Rachel #222222
+
   //random text from Emily again
     // CHANGE ONE
     //CHANGE 2
