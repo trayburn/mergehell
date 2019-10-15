@@ -7,6 +7,11 @@ public class Application {
     // so I'm going to run into some pain...
 
     //Welp, looks like we're stuck.
+    // This is Ethan's humble contribution to hell.
+    // This is another comment from Ethan. Hey guys.
+    // random text
+    //:-)
+    // Ethan's third comment
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("... because ninjas....");
@@ -14,5 +19,4 @@ public class Application {
     // I'm on Siri's team but I don't pull often enough
     // so I'm going to run into some pain...
     //have ya'll tried these KIND protein bars?
-    //Once, my sister was bitten by an elk.
 }
