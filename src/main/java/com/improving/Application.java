@@ -7,7 +7,7 @@ public class Application {
     //this is Emily
     // random text
     //:-)
-    // Ethan's third comment
+    // SOmething TIM Added.
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("... because ninjas....");
