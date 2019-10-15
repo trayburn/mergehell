@@ -10,6 +10,15 @@ public class Application {
     // This is Ethan's humble contribution to hell.
     // This is another comment from Ethan. Hey guys.
     // random text
+    // This is Ethan's humble contribution to hell.
+    //Zach is the best.
+    //zach's second comment
+    //:-)
+    // This is Ethan's humble contribution to hell.
+    // This is another comment from Ethan. Hey guys.
+    // dis is Siri
+    //this is Emily
+    // random text
     //:-)
     // SOmething TIM Added.
     public static void main(String[] args) {
@@ -18,7 +27,13 @@ public class Application {
     }
     // I'm on Siri's team but I don't pull often enough
     // so I'm going to run into some pain...
+    //have ya'll tried these KIND protein bars?
 
+    //Rachel's mergeity merge
+
+    //Merge-in Mergin - mergin Rachel #222222
+
+  //random text from Emily again
     // CHANGE ONE
     //CHANGE 2
     //I waited until everyone was done to do this. #PushAtNight
