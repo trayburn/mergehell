@@ -7,13 +7,14 @@ public class Application {
     //this is Emily
     // random text
     //:-)
-    // Ethan's third comment
+    // SOmething TIM Added.
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("... because ninjas....");
     }
     // I'm on Siri's team but I don't pull often enough
     // so I'm going to run into some pain...
-    //have ya'll tried these KIND protein bars?
-    //random text from Emily again
+
+    // CHANGE ONE
+    //CHANGE 2
 }
